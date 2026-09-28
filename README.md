@@ -1,6 +1,6 @@
 # Xavier Salaices
 
-Software engineer building AI-powered tools. I don't specialize in multi-agent orchestration, but it's what I'm most passionate about.
+Software engineer building AI-powered tools. I'm passionate about agent orchestration
 
 ## What I'm building
 
@@ -11,8 +11,8 @@ Software engineer building AI-powered tools. I don't specialize in multi-agent o
 
 I also do open-source work on the side.
 
+![Open Source PRs Merged](https://img.shields.io/badge/Open_Source_PRs_Merged-4-6366f1?style=for-the-badge&logo=github&logoColor=white)
+
 ## Beyond code
 
 Music — classical, DJing, and producing — and business.
-
-![Open Source PRs Merged](https://img.shields.io/badge/Open_Source_PRs_Merged-4-6366f1?style=for-the-badge&logo=github&logoColor=white)
