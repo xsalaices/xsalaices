@@ -11,4 +11,4 @@ Software engineer building AI-powered tools. I don't specialize in multi-agent o
 
 I also do open-source work on the side.
 
-![Open source PRs merged](https://img.shields.io/badge/open_source_PRs_merged-4-brightgreen)
+![Open Source PRs Merged](https://img.shields.io/badge/Open_Source_PRs_Merged-4-6366f1?style=for-the-badge&logo=github&logoColor=white)
