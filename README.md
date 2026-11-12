@@ -11,7 +11,7 @@ Software engineer building AI-powered tools. I'm passionate about agent orchestr
 
 I also do open-source work on the side.
 
-![Open Source PRs Merged](https://img.shields.io/badge/Open_Source_PRs_Merged-11-6366f1?style=for-the-badge&logo=github&logoColor=white)
+![Open Source PRs Merged](https://img.shields.io/badge/Open_Source_PRs_Merged-16-6366f1?style=for-the-badge&logo=github&logoColor=white)
 
 <p align="center">
   <img src="koi/koi.gif" width="256" alt="My koi, redrawn every night from my GitHub activity" />
